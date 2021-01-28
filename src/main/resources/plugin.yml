@@ -1,0 +1,19 @@
+name: CursedCommands
+version: ${project.version}
+main: com.cursedprison.blocker.Main
+description: Configurable plugin message.
+commands:
+  launch:
+    description: Launches a player
+  freeze:
+    description: Freeze a player
+  unfreeze:
+    description: Unfreeze a player
+  clearchat:
+    description: Clears the chat!
+  explode:
+    description: Surrounds player with TNT
+  push:
+    description: Push a player away from you!
+  restart:
+    description: Restarts the server with jazz

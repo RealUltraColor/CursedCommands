@@ -1,0 +1,14 @@
+########################
+#                      #
+# Cursed Commands v1.0 #
+#                      #
+########################
+
+Messages:
+  pluginMessage: "&fPlugins (3): &aCursedCore&f, &aCursedStaff&f, &aCursedCommands"
+  launchMessage: "&5&lCP &8» &7You've been launched!"
+  explosionMessage: "&fBoom"
+  restartMessage: "&c&lWARNING &8» &fThis server is &crestarting &fin &c60 seconds&f!"
+
+
+
